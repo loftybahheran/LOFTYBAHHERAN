@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**loftybahheran/LOFTYBAHHERAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋🏾 Hey, I'm Loftybahheran
 
-Here are some ideas to get you started:
+## 👨🏾‍💻 Just a guy who codes by vibe — learning and building apps to solve real problems and make some money.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+- 💻 Python | JavaScript | HTML | Markdown
+- 🤖 AI Tools: ChatGPT, GitHub Copilot
+- 🎨 Design: Canva (basic)
+- 🔧 Tools: Git, VS Code, Replit
+
+---
+
+## 📚 What I Do
+
+- Code with vibes
+- Build stuff that solves problems
+- Learn on the go
+- Stack skills and income
+
+---
+
+## 🤝 Let’s Connect!
+
+- 📩 Email: [loftybahheran@gmail.com]
+- 🔗 Telegeram: [@BAHHERAN]
+
+---
+
+> "Learn. Build. Earn. Repeat."
