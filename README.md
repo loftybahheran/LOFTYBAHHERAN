@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋🏾 Hey, I'm Loftybahheran
+# 👋🏾 Hey, I'm Lofibahheran
 
 ## 👨🏾‍💻 Just a guy who codes by vibe — learning and building apps to solve real problems and make some money.
 
